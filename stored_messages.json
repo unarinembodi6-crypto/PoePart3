@@ -1,0 +1,16 @@
+[
+  {
+    "messageId": "1000000002",
+    "messageHash": "10:2:WHERETIME",
+    "sender": "Developer",
+    "recipient": "+27838884567",
+    "message": "Where are you? You are late! I have asked you to be on time."
+  },
+  {
+    "messageId": "1000000005",
+    "messageHash": "10:5:OKYOU",
+    "sender": "Developer",
+    "recipient": "+27838884567",
+    "message": "Ok, I am leaving without you."
+  }
+]
